@@ -5,6 +5,6 @@
 - 📫 How to reach me **dotesander2020@gmail.com**
 
 <!---
-sanderdote/sanderdote is a ✨ special ✨ repository because its `README.md` (ASRtradetest2023) appears on your GitHub profile.
+sanderdote/sanderdote is **aplicant of special Enlistment**repository because its `README.md` (ASRtradetest2023) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
